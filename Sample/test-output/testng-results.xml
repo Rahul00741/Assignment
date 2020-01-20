@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="22" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Shopworx Assignment" duration-ms="223221" started-at="2020-01-20T07:38:06 IST" finished-at="2020-01-20T07:41:49 IST">
+    <groups>
+    </groups>
+    <test name="Shopworx Assignment" duration-ms="223221" started-at="2020-01-20T07:38:06 IST" finished-at="2020-01-20T07:41:49 IST">
+      <class name="com.ShopWorxV1.TestCeses.TC_TestMethods">
+        <test-method status="PASS" signature="TC001()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC001" duration-ms="16650" started-at="2020-01-20T07:38:11 IST" finished-at="2020-01-20T07:38:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1316" started-at="2020-01-20T07:38:28 IST" finished-at="2020-01-20T07:38:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="52" started-at="2020-01-20T07:38:29 IST" finished-at="2020-01-20T07:38:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC002()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC002" duration-ms="9739" started-at="2020-01-20T07:38:29 IST" finished-at="2020-01-20T07:38:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1477" started-at="2020-01-20T07:38:39 IST" finished-at="2020-01-20T07:38:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="3" started-at="2020-01-20T07:38:40 IST" finished-at="2020-01-20T07:38:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC003()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC003" duration-ms="11973" started-at="2020-01-20T07:38:40 IST" finished-at="2020-01-20T07:38:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1590" started-at="2020-01-20T07:38:52 IST" finished-at="2020-01-20T07:38:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="4" started-at="2020-01-20T07:38:54 IST" finished-at="2020-01-20T07:38:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC004()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC004" duration-ms="10444" started-at="2020-01-20T07:38:54 IST" finished-at="2020-01-20T07:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="2814" started-at="2020-01-20T07:39:04 IST" finished-at="2020-01-20T07:39:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="3" started-at="2020-01-20T07:39:07 IST" finished-at="2020-01-20T07:39:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC005()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC005" duration-ms="11331" started-at="2020-01-20T07:39:07 IST" finished-at="2020-01-20T07:39:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1902" started-at="2020-01-20T07:39:18 IST" finished-at="2020-01-20T07:39:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="3" started-at="2020-01-20T07:39:20 IST" finished-at="2020-01-20T07:39:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC006()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC006" duration-ms="9882" started-at="2020-01-20T07:39:20 IST" finished-at="2020-01-20T07:39:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC006 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1783" started-at="2020-01-20T07:39:30 IST" finished-at="2020-01-20T07:39:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="3" started-at="2020-01-20T07:39:32 IST" finished-at="2020-01-20T07:39:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC007()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC007" duration-ms="8589" started-at="2020-01-20T07:39:32 IST" finished-at="2020-01-20T07:39:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC007 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1391" started-at="2020-01-20T07:39:41 IST" finished-at="2020-01-20T07:39:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="4" started-at="2020-01-20T07:39:42 IST" finished-at="2020-01-20T07:39:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC008()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC008" duration-ms="8444" started-at="2020-01-20T07:39:42 IST" finished-at="2020-01-20T07:39:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC008 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1297" started-at="2020-01-20T07:39:50 IST" finished-at="2020-01-20T07:39:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="3" started-at="2020-01-20T07:39:52 IST" finished-at="2020-01-20T07:39:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC009()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC009" duration-ms="9188" started-at="2020-01-20T07:39:52 IST" finished-at="2020-01-20T07:40:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC009 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1463" started-at="2020-01-20T07:40:01 IST" finished-at="2020-01-20T07:40:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="6" started-at="2020-01-20T07:40:02 IST" finished-at="2020-01-20T07:40:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC010()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC010" duration-ms="8468" started-at="2020-01-20T07:40:02 IST" finished-at="2020-01-20T07:40:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC010 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1482" started-at="2020-01-20T07:40:11 IST" finished-at="2020-01-20T07:40:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="2" started-at="2020-01-20T07:40:12 IST" finished-at="2020-01-20T07:40:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC011()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC011" duration-ms="8336" started-at="2020-01-20T07:40:12 IST" finished-at="2020-01-20T07:40:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC011 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1989" started-at="2020-01-20T07:40:21 IST" finished-at="2020-01-20T07:40:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="4" started-at="2020-01-20T07:40:23 IST" finished-at="2020-01-20T07:40:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC012()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC012" duration-ms="9964" started-at="2020-01-20T07:40:23 IST" finished-at="2020-01-20T07:40:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC012 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="2088" started-at="2020-01-20T07:40:33 IST" finished-at="2020-01-20T07:40:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="5" started-at="2020-01-20T07:40:35 IST" finished-at="2020-01-20T07:40:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC013()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC013" duration-ms="7824" started-at="2020-01-20T07:40:35 IST" finished-at="2020-01-20T07:40:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC013 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1349" started-at="2020-01-20T07:40:43 IST" finished-at="2020-01-20T07:40:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="3" started-at="2020-01-20T07:40:44 IST" finished-at="2020-01-20T07:40:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC014()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC014" duration-ms="11645" started-at="2020-01-20T07:40:44 IST" finished-at="2020-01-20T07:40:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC014 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1648" started-at="2020-01-20T07:40:56 IST" finished-at="2020-01-20T07:40:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="6" started-at="2020-01-20T07:40:57 IST" finished-at="2020-01-20T07:40:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC015()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC015" duration-ms="10236" started-at="2020-01-20T07:40:57 IST" finished-at="2020-01-20T07:41:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC015 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="2170" started-at="2020-01-20T07:41:08 IST" finished-at="2020-01-20T07:41:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="5" started-at="2020-01-20T07:41:10 IST" finished-at="2020-01-20T07:41:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC016()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC016" duration-ms="7791" started-at="2020-01-20T07:41:10 IST" finished-at="2020-01-20T07:41:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC016 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1596" started-at="2020-01-20T07:41:17 IST" finished-at="2020-01-20T07:41:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="4" started-at="2020-01-20T07:41:19 IST" finished-at="2020-01-20T07:41:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC017()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC017" duration-ms="8615" started-at="2020-01-20T07:41:19 IST" finished-at="2020-01-20T07:41:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC017 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1467" started-at="2020-01-20T07:41:28 IST" finished-at="2020-01-20T07:41:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="4" started-at="2020-01-20T07:41:29 IST" finished-at="2020-01-20T07:41:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC018()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC018" duration-ms="7530" started-at="2020-01-20T07:41:29 IST" finished-at="2020-01-20T07:41:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC018 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="2215" started-at="2020-01-20T07:41:37 IST" finished-at="2020-01-20T07:41:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="4" started-at="2020-01-20T07:41:39 IST" finished-at="2020-01-20T07:41:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+        <test-method status="PASS" signature="TC019()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="TC019" duration-ms="8433" started-at="2020-01-20T07:41:39 IST" finished-at="2020-01-20T07:41:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC019 -->
+        <test-method status="PASS" signature="BrowseNotice()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="BrowseNotice" is-config="true" duration-ms="1444" started-at="2020-01-20T07:41:47 IST" finished-at="2020-01-20T07:41:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseNotice -->
+        <test-method status="PASS" signature="XMLreport()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_TestMethods@22a67b4]" name="XMLreport" is-config="true" duration-ms="3" started-at="2020-01-20T07:41:49 IST" finished-at="2020-01-20T07:41:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLreport -->
+      </class> <!-- com.ShopWorxV1.TestCeses.TC_TestMethods -->
+      <class name="com.ShopWorxV1.TestCeses.TC_LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_LoginTest@79be0360]" name="setup" is-config="true" duration-ms="17095" started-at="2020-01-20T07:37:48 IST" finished-at="2020-01-20T07:38:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_LoginTest@79be0360]" name="loginTest" duration-ms="5249" started-at="2020-01-20T07:38:06 IST" finished-at="2020-01-20T07:38:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ShopWorxV1.TestCeses.TC_LoginTest@79be0360]" name="tearDown" is-config="true" duration-ms="4804" started-at="2020-01-20T07:41:49 IST" finished-at="2020-01-20T07:41:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ShopWorxV1.TestCeses.TC_LoginTest -->
+    </test> <!-- Shopworx Assignment -->
+  </suite> <!-- Shopworx Assignment -->
+</testng-results>
